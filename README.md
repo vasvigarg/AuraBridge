@@ -2,7 +2,7 @@
 
 _Bridging Ideas to Web Applications, Instantly._
 
-🔗 [https://aurabridge.vercel.app](https://aurabridge.vercel.app)
+🔗 [https://aura-bridge-yyen.vercel.app](https://aura-bridge-yyen.vercel.app/)
 
 ### Homepage UI
 
