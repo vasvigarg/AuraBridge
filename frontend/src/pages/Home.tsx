@@ -64,7 +64,7 @@ export function Home() {
               Examples
             </a>
             <a
-              href="https://github.com/your-org/aurabridge"
+              href="https://github.com/vasvigarg/AuraBridge"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white"
@@ -193,7 +193,7 @@ export function Home() {
           <footer className="mt-24 py-10 border-t border-gray-800 text-center text-sm text-gray-500">
             Made with 💙 by Vasvi |{" "}
             <a
-              href="https://github.com/your-org/aurabridge"
+              href="https://github.com/vasvigarg/AuraBridge"
               className="text-blue-400 hover:underline"
               target="_blank"
               rel="noopener noreferrer"
